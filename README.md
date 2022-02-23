@@ -1,16 +1,15 @@
-# flutter_simple_ui
+## flutter_simple_ui
+Jobsheet 2
 
-A new Flutter project.
+Politeknik Negeri Malang
+MI2A
 
-## Getting Started
+2031710038
 
-This project is a starting point for a Flutter application.
+Wildan Abdul Rachman Saleh 
 
-A few resources to get you started if this is your first Flutter project:
+29
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Hasil Tampilan
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/58KfZtJ/simple-ui.png" alt="simple-ui" border="0"></a><br /><a target='_blank' href='https://id.imgbb.com/'></a><br />
